@@ -61,19 +61,19 @@ a {
   border-radius: 20px;
   transition: all 0.3s ease;
 }
-/* Laptop */
+
 @media screen and (max-width: 900px) {
   .category-btn{
     margin: 10px;
   }
 }
-/* Tab */
+
 @media screen and (max-width:800px){
   .copyright{
     display:none !important;
   }
 }
-/* Mobile */
+
 @media screen and (max-width: 600px) {
   .scroll-horizontal {
     overflow: auto !important;
